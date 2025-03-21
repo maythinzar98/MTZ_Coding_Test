@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DHL Global Trade Barometer - Country Comparator</title>
+  <!-- reset CSS -->
+  <link rel="stylesheet" href="assets/css/lib/reset.css">
+  <!-- UIkit CSS -->
+  <link rel="stylesheet" href="assets/css/lib/uikit.min.css">
+  <!-- style CSS -->
+  <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+  <header class="header uk-padding-small uk-padding-remove-horizontal">
+    <div class="uk-container uk-flex uk-flex-middle">
+      <a href="#" class="logo">
+        <img src="assets/img/img_logo.png" alt="DHL">
+      </a>
+      <span class="header-txt uk-text-bold">Global Trade Barometer</span>
+    </div>
+  </header><!-- /.header -->
+  <div class="bnr-section">
+    <div class="uk-container">
+      <span class="sub-ttl uk-text-light">Global Trade</span>
+      <h1 class="main-ttl uk-text-bold">Country Comparator</h1>
+      <p class="intro-txt">Select between 2 countries and the reporting period to compare trade indexes.</p>
+    </div>
+  </div>
+  <main>
+    <div class="map-area">
+      <div class="map-inner">
+        <div class="country china" data-name="China">
+          <img src="assets/img/img_china_flag.png" alt="" class="flag">
+          <img src="assets/img/img_china_map.png" alt="" class="map">
+          <img src="assets/img/img_china_active.png" alt="" class="map-active">
+          <span class="tooltip uk-visible@m">China</span>
+        </div>
+        <div class="country germany" data-name="Germany">
+          <img src="assets/img/img_germany_flag.png" alt="" class="flag">
+          <img src="assets/img/img_germany_map.png" alt="" class="map">
+          <img src="assets/img/img_germany_active.png" alt="" class="map-active">
+          <span class="tooltip uk-visible@m">Germany</span>
+        </div>
+        <div class="country india" data-name="India">
+          <img src="assets/img/img_india_flag.png" alt="" class="flag">
+          <img src="assets/img/img_india_map.png" alt="" class="map">
+          <img src="assets/img/img_india_active.png" alt="" class="map-active">
+          <span class="tooltip uk-visible@m">India</span>
+        </div>
+        <div class="country jp" data-name="Japan">
+          <img src="assets/img/img_jp_flag.png" alt="" class="flag">
+          <img src="assets/img/img_jp_map.png" alt="" class="map">
+          <img src="assets/img/img_jp_active.png" alt="" class="map-active">
+          <span class="tooltip uk-visible@m">Japan</span>
+        </div>
+        <div class="country kr" data-name="South Korea">
+          <img src="assets/img/img_south_korea_flag.png" alt="" class="flag">
+          <img src="assets/img/img_south_korea_map.png" alt="" class="map">
+          <img src="assets/img/img_kr_active.png" alt="" class="map-active">
+          <span class="tooltip uk-visible@m">South Korea</span>
+        </div>
+        <div class="country uk" data-name="United Kingdom">
+          <img src="assets/img/img_uk_flag.png" alt="" class="flag">
+          <img src="assets/img/img_uk_map.png" alt="" class="map">
+          <img src="assets/img/img_uk_active.png" alt="" class="map-active">
+          <span class="tooltip uk-visible@m">United Kingdom</span>
+        </div>
+        <div class="country us" data-name="United States">
+          <img src="assets/img/img_us_flag.png" alt="" class="flag">
+          <img src="assets/img/img_us_map.png" alt="" class="map">
+          <img src="assets/img/img_us_active.png" alt="" class="map-active">
+          <span class="tooltip uk-visible@m">United States</span>
+        </div>
+      </div>
+    </div>
+    <div class="compare-data uk-padding-remove-vertical">
+      <div class="uk-container">
+        <p class="warning-txt">Deselect one country before selecting another</p>
+        <div class="compare-wrap">
+          <span class="uk-visible@m">Reporting Period</span>
+          <div class="custom-select month-period">
+            <div class="js-selected">
+              <small class="uk-hidden@m">Reporting Period</small>
+              <div class="selected">Sep 2019 - Nov 2019</div>
+            </div>
+            <div class="options">
+              <span data-value="Sep 2019 - Nov 2019">Sep 2019 - Nov 2019</span>
+              <span data-value="Jul 2019 - Sep 2019">Jul 2019 - Sep 2019</span>
+              <span data-value="Apr 2019 - Jun 2019">Apr 2019 - Jun 2019</span>
+              <span data-value="Jan 2019 - Mar 2019">Jan 2019 - Mar 2019</span>
+              <span data-value="Oct 2018 - Dec 2018">Oct 2018 - Dec 2018</span>
+              <span data-value="Jul 2018 - Sep 2018">Jul 2018 - Sep 2018</span>
+              <span data-value="Apr 2018 - Jun 2018">Apr 2018 - Jun 2018</span>
+              <span data-value="Jan 2018 - Mar 2018">Jan 2018 - Mar 2018</span>
+            </div>
+          </div>
+          <button class="compare-btn uk-text-bold" disabled>Compare Data</button>
+        </div>
+      </div>
+    </div>
+    <div class="result-area">
+      <div class="js-compare">
+        <div class="comparator uk-flex-center uk-padding-small uk-visible@m">
+          <span class="uk-text-bold">Country Comparator</span>
+          <div class="custom-select country-select" id="first-country">
+            <div class="selected js-selected"></div>
+            <div class="options"></div>
+          </div>
+          <div class="custom-select country-select" id="second-country">
+            <div class="selected js-selected"></div>
+            <div class="options"></div>
+          </div>
+          <span class="uk-text-uppercase">VS</span>
+          <div class="custom-select" id="month-year-select">
+            <div class="selected js-selected"></div>
+            <div class="options"></div>
+          </div>
+        </div>
+        <div class="device-compare uk-hidden@m">
+          <div class="uk-background-muted uk-flex uk-flex-middle uk-flex-between uk-flex-wrap uk-padding-small">
+            <div class="uk-flex uk-flex-middle uk-text-small">
+              <span class="uk-text-bold uk-flex uk-flex-middle select-country js-first-selected"></span>
+              <span class="uk-margin-xsmall-left uk-margin-xsmall-right">VS</span>
+              <span class="uk-text-bold uk-flex uk-flex-middle select-country js-second-selected"></span>
+            </div>
+            <a href="" class="uk-text-danger" uk-totop uk-scroll><span uk-icon="settings"
+                class="uk-margin-xsmall-right"></span>Change</a>
+          </div>
+        </div>
+      </div>
+      <div class="uk-container">
+        <div class="btn-container uk-visible@m"></div>
+        <div class="compare-area uk-padding-remove-horizontal">
+          <h2 class="month-year-ttl uk-hidden@m uk-margin-large-top js-month-year"></h2>
+          <div class="uk-flex uk-flex-middle uk-flex-between uk-position-relative countries-container"></div>
+          <div class="data-container"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <!-- UIkit JavaScript -->
+  <script src="assets/js/lib/uikit.min.js"></script>
+  <script src="assets/js/lib/uikit-icons.min.js"></script>
+  <!-- Custom JavaScript -->
+  <script src="assets/js/script.js"></script>
+</body>
+
+</html>

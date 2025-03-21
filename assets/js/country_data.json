@@ -1,0 +1,3387 @@
+{
+  "2018": {
+    "Jan": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 64,
+          "air_trade": 65,
+          "ocean_trade": 64
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 63,
+          "air_trade": 64,
+          "ocean_trade": 62
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 69,
+          "air_trade": 80,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 59,
+          "air_trade": 70,
+          "ocean_trade": 52
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 65,
+          "air_trade": 73,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 68,
+          "air_trade": 82,
+          "ocean_trade": 60
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 84,
+          "air_trade": 82,
+          "ocean_trade": 85
+        },
+        "development": {
+          "basic": 94,
+          "chemicals": 76,
+          "consumer_fashion" : 60,
+          "technology" : 98,
+          "industrial" : 87,
+          "land": 69,
+          "machinary" : 70,
+          "household" : 74,
+          "climate" : 97    
+        }
+      }
+    ],
+    "Feb": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 65,
+          "air_trade": 64,
+          "ocean_trade": 66
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 63,
+          "air_trade": 66,
+          "ocean_trade": 61
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 67,
+          "air_trade": 77,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 59,
+          "air_trade": 68,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 71,
+          "air_trade": 73,
+          "ocean_trade": 70
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 69,
+          "air_trade": 82,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 84,
+          "air_trade": 84,
+          "ocean_trade": 87
+        },
+        "development": {
+          "basic": 94,
+          "chemicals": 83,
+          "consumer_fashion" : 60,
+          "technology" : 100,
+          "industrial" : 88,
+          "land": 71,
+          "machinary" : 85,
+          "household" : 74,
+          "climate" : 96 
+        }
+      }
+    ],
+    "Mar": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 67,
+          "air_trade": 66,
+          "ocean_trade": 69
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 61,
+          "air_trade": 62,
+          "ocean_trade": 60
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 64,
+          "air_trade": 71,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 61,
+          "air_trade": 71,
+          "ocean_trade": 55
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 69,
+          "air_trade": 67,
+          "ocean_trade": 70
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 70,
+          "air_trade": 82,
+          "ocean_trade": 61
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 84,
+          "air_trade": 82,
+          "ocean_trade": 85
+        },
+        "development": {
+          "basic": 93,
+          "chemicals": 81,
+          "consumer_fashion" : 65,
+          "technology" : 100,
+          "industrial" : 84,
+          "land": 74,
+          "machinary" : 72,
+          "household" : 68,
+          "climate" : 92    
+        }
+      }
+    ],
+    "Apr": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 70,
+          "air_trade": 70,
+          "ocean_trade": 71
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 59,
+          "air_trade": 61,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 66,
+          "air_trade": 78,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 60,
+          "air_trade": 67,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 75,
+          "air_trade": 72,
+          "ocean_trade": 77
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 70,
+          "air_trade": 82,
+          "ocean_trade": 61
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 81,
+          "air_trade": 85,
+          "ocean_trade": 78
+        },
+        "development": {
+          "basic": 72,
+          "chemicals": 83,
+          "consumer_fashion" : 77,
+          "technology" : 100,
+          "industrial" : 85,
+          "land": 76,
+          "machinary" : 72,
+          "household" : 60,
+          "climate" : 90    
+        }
+      }
+    ],
+    "May": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 70,
+          "air_trade": 65,
+          "ocean_trade": 74
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 58,
+          "air_trade": 58,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 66,
+          "air_trade": 76,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 64,
+          "air_trade": 71,
+          "ocean_trade": 60
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 75,
+          "air_trade": 73,
+          "ocean_trade": 76
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 70,
+          "air_trade": 82,
+          "ocean_trade": 61
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 70,
+          "air_trade": 81,
+          "ocean_trade": 78
+        },
+        "development": {
+          "basic": 67,
+          "chemicals": 81,
+          "consumer_fashion" : 100,
+          "technology" : 99,
+          "industrial" : 76,
+          "land": 76,
+          "machinary" : 77,
+          "household" : 68,
+          "climate" : 87    
+        }
+      }
+    ],
+    "Jun": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 68,
+          "air_trade": 62,
+          "ocean_trade": 73
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 57,
+          "air_trade": 56,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 64,
+          "air_trade": 74,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 63,
+          "air_trade": 72,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 74,
+          "air_trade": 73,
+          "ocean_trade": 74
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 67,
+          "air_trade": 80,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 79,
+          "air_trade": 80,
+          "ocean_trade": 79
+        },
+        "development": {
+          "basic": 72,
+          "chemicals": 82,
+          "consumer_fashion" : 100,
+          "technology" : 99,
+          "industrial" : 74,
+          "land": 69,
+          "machinary" : 78,
+          "household" : 67,
+          "climate" : 91 
+        }
+      }
+    ],
+    "Jul": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 67,
+          "air_trade": 58,
+          "ocean_trade": 74
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 59,
+          "air_trade": 59,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 59,
+          "air_trade": 60,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 63,
+          "air_trade": 72,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 68,
+          "air_trade": 71,
+          "ocean_trade": 65
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 68,
+          "air_trade": 82,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 77,
+          "air_trade": 76,
+          "ocean_trade": 78
+        },
+        "development": {
+          "basic": 64,
+          "chemicals": 73,
+          "consumer_fashion" : 76,
+          "technology" : 97,
+          "industrial" : 88,
+          "land": 70,
+          "machinary" : 86,
+          "household" : 70,
+          "climate" : 84   
+        }
+      }
+    ],
+    "Aug": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 66,
+          "air_trade": 57,
+          "ocean_trade": 72
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 58,
+          "air_trade": 59,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 57,
+          "air_trade": 60,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 62,
+          "air_trade": 67,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 67,
+          "air_trade": 70,
+          "ocean_trade": 64
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 65,
+          "air_trade": 79,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 76,
+          "air_trade": 74,
+          "ocean_trade": 78
+        },
+        "development": {
+          "basic": 73,
+          "chemicals": 72,
+          "consumer_fashion" : 72,
+          "technology" : 95,
+          "industrial" : 88,
+          "land": 66,
+          "machinary" : 85,
+          "household" : 58,
+          "climate" : 77
+        }
+      }
+    ],
+    "Sep": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 63,
+          "air_trade": 52,
+          "ocean_trade": 70
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 57,
+          "air_trade": 58,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 58,
+          "air_trade": 62,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 59,
+          "air_trade": 63,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 69,
+          "air_trade": 73,
+          "ocean_trade": 66
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 64,
+          "air_trade": 79,
+          "ocean_trade": 55
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 83,
+          "air_trade": 72,
+          "ocean_trade": 89
+        },
+        "development": {
+          "basic": 95,
+          "chemicals": 73,
+          "consumer_fashion" : 72,
+          "technology" : 94,
+          "industrial" : 87,
+          "land": 68,
+          "machinary" : 93,
+          "household" : 61,
+          "climate" : 64    
+        }
+      }
+    ],
+    "Oct": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 65,
+          "air_trade": 57,
+          "ocean_trade": 70
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 52,
+          "air_trade": 53,
+          "ocean_trade": 50
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 57,
+          "air_trade": 62,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 58,
+          "air_trade": 63,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 63,
+          "air_trade": 64,
+          "ocean_trade": 62
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 61,
+          "air_trade": 71,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 75,
+          "air_trade": 67,
+          "ocean_trade": 79
+        },
+        "development": {
+          "basic": 84,
+          "chemicals": 67,
+          "consumer_fashion" : 84,
+          "technology" : 86,
+          "industrial" : 81,
+          "land": 69,
+          "machinary" : 84,
+          "household" : 53,
+          "climate" : 48    
+        }
+      }
+    ],
+    "Nov": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 61,
+          "air_trade": 54,
+          "ocean_trade": 66
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 53,
+          "air_trade": 51,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 56,
+          "air_trade": 58,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 58,
+          "air_trade": 64,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 64,
+          "air_trade": 62,
+          "ocean_trade": 66
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 58,
+          "air_trade": 68,
+          "ocean_trade": 53
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 75,
+          "air_trade": 65,
+          "ocean_trade": 80
+        },
+        "development": {
+          "basic": 87,
+          "chemicals": 65,
+          "consumer_fashion" : 73,
+          "technology" : 85,
+          "industrial" : 82,
+          "land": 70,
+          "machinary" : 85,
+          "household" : 53,
+          "climate" : 46    
+        }
+      }
+    ],
+    "Dec": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 60,
+          "air_trade": 55,
+          "ocean_trade": 64
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 52,
+          "air_trade": 49,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 51,
+          "air_trade": 53,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 57,
+          "air_trade": 60,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 61,
+          "air_trade": 59,
+          "ocean_trade": 63
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 59,
+          "air_trade": 67,
+          "ocean_trade": 53
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 77,
+          "air_trade": 65,
+          "ocean_trade": 83
+        },
+        "development": {
+          "basic": 94,
+          "chemicals": 65,
+          "consumer_fashion" : 67,
+          "technology" : 81,
+          "industrial" : 75,
+          "land": 71,
+          "machinary" : 81,
+          "household" : 52,
+          "climate" : 56    
+        }
+      }
+    ]
+  },
+  "2019": {
+    "Jan": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 60,
+          "air_trade": 57,
+          "ocean_trade": 63
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 55,
+          "air_trade": 51,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 52,
+          "air_trade": 55,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 58,
+          "air_trade": 59,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 60,
+          "air_trade": 60,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 60,
+          "air_trade": 71,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 75,
+          "air_trade": 61,
+          "ocean_trade": 83
+        },
+        "development": {
+          "basic": 95,
+          "chemicals": 61,
+          "consumer_fashion" : 55,
+          "technology" : 73,
+          "industrial" : 67,
+          "land": 74,
+          "machinary" : 75,
+          "household" : 59,
+          "climate" : 79    
+        }
+      }
+    ],
+    "Feb": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 59,
+          "air_trade": 56,
+          "ocean_trade": 62
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 53,
+          "air_trade": 48,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 51,
+          "air_trade": 59,
+          "ocean_trade": 46
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 57,
+          "air_trade": 55,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 52,
+          "air_trade": 48,
+          "ocean_trade": 55
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 59,
+          "air_trade": 66,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 68,
+          "air_trade": 56,
+          "ocean_trade": 75
+        },
+        "development": {
+          "basic": 91,
+          "chemicals": 60,
+          "consumer_fashion" : 57,
+          "technology" : 54,
+          "industrial" : 55,
+          "land": 73,
+          "machinary" : 62,
+          "household" : 64,
+          "climate" : 76    
+        }
+      }
+    ],
+    "Mar": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 55,
+          "air_trade": 53,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 54,
+          "air_trade": 49,
+          "ocean_trade": 60
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 53,
+          "air_trade": 62,
+          "ocean_trade": 46
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 56,
+          "air_trade": 57,
+          "ocean_trade": 55
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 49,
+          "air_trade": 45,
+          "ocean_trade": 53
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 57,
+          "air_trade": 62,
+          "ocean_trade": 55
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 59,
+          "air_trade": 52,
+          "ocean_trade": 63
+        },
+        "development": {
+          "basic": 75,
+          "chemicals": 57,
+          "consumer_fashion" : 52,
+          "technology" : 47,
+          "industrial" : 52,
+          "land": 73,
+          "machinary" : 47,
+          "household" : 71,
+          "climate" : 72    
+        }
+      }
+    ],
+    "Apr": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 48,
+          "air_trade": 48,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 54,
+          "air_trade": 50,
+          "ocean_trade": 58
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 53,
+          "air_trade": 60,
+          "ocean_trade": 47
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 53,
+          "air_trade": 54,
+          "ocean_trade": 52
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 49,
+          "air_trade": 43,
+          "ocean_trade": 53
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 53,
+          "air_trade": 55,
+          "ocean_trade": 52
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 53,
+          "air_trade": 47,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 59,
+          "chemicals": 53,
+          "consumer_fashion" : 52,
+          "technology" : 35,
+          "industrial" : 54,
+          "land": 73,
+          "machinary" : 52,
+          "household" : 68,
+          "climate" : 55    
+        }
+      }
+    ],
+    "May": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 44,
+          "air_trade": 45,
+          "ocean_trade": 43
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 54,
+          "air_trade": 52,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 52,
+          "air_trade": 57,
+          "ocean_trade": 48
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 50,
+          "air_trade": 52,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 47,
+          "air_trade": 43,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 52,
+          "air_trade": 53,
+          "ocean_trade": 51
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 53,
+          "air_trade": 47,
+          "ocean_trade": 57
+        },
+        "development": {
+          "basic": 56,
+          "chemicals": 47,
+          "consumer_fashion" : 46,
+          "technology" : 32,
+          "industrial" : 57,
+          "land": 69,
+          "machinary" : 51,
+          "household" : 58,
+          "climate" : 73    
+        }
+      }
+    ],
+    "Jun": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 44,
+          "air_trade": 45,
+          "ocean_trade": 43
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 56,
+          "air_trade": 55,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 52,
+          "air_trade": 56,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 51,
+          "air_trade": 49,
+          "ocean_trade": 47
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 46,
+          "air_trade": 43,
+          "ocean_trade": 48
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 50,
+          "air_trade": 51,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 53,
+          "air_trade": 45,
+          "ocean_trade": 59
+        },
+        "development": {
+          "basic": 60,
+          "chemicals": 44,
+          "consumer_fashion" : 46,
+          "technology" : 26,
+          "industrial" : 59,
+          "land": 70,
+          "machinary" : 46,
+          "household" : 57,
+          "climate" : 77    
+        }
+      }
+    ],
+    "Jul": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 44,
+          "air_trade": 44,
+          "ocean_trade": 44
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 55,
+          "air_trade": 56,
+          "ocean_trade": 55
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 50,
+          "air_trade": 55,
+          "ocean_trade": 46
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 48,
+          "air_trade": 49,
+          "ocean_trade": 48
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 44,
+          "air_trade": 42,
+          "ocean_trade": 46
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 50,
+          "air_trade": 50,
+          "ocean_trade": 50
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 55,
+          "air_trade": 47,
+          "ocean_trade": 61
+        },
+        "development": {
+          "basic": 82,
+          "chemicals": 46,
+          "consumer_fashion" : 42,
+          "technology" : 12,
+          "industrial" : 61,
+          "land": 62,
+          "machinary" : 45,
+          "household" : 54,
+          "climate" : 97    
+        }
+      }
+    ],
+    "Aug": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 46,
+          "air_trade": 45,
+          "ocean_trade": 46
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 56,
+          "air_trade": 56,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 51,
+          "air_trade": 55,
+          "ocean_trade": 47
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 48,
+          "air_trade": 47,
+          "ocean_trade": 49
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 46,
+          "air_trade": 42,
+          "ocean_trade": 48
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 52,
+          "air_trade": 50,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 52,
+          "air_trade": 47,
+          "ocean_trade": 56
+        },
+        "development": {
+          "basic": 61,
+          "chemicals": 51,
+          "consumer_fashion" : 50,
+          "technology" : 30,
+          "industrial" : 50,
+          "land": 54,
+          "machinary" : 41,
+          "household" : 54,
+          "climate" : 76    
+        }
+      }
+    ],
+    "Sep": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 45,
+          "air_trade": 44,
+          "ocean_trade": 45
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 53,
+          "air_trade": 53,
+          "ocean_trade": 53
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 48,
+          "air_trade": 52,
+          "ocean_trade": 45
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 45,
+          "air_trade": 43,
+          "ocean_trade": 47
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 45,
+          "air_trade": 40,
+          "ocean_trade": 48
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 53,
+          "air_trade": 49,
+          "ocean_trade": 55
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 49,
+          "air_trade": 48,
+          "ocean_trade": 50
+        },
+        "development": {
+          "basic": 53,
+          "chemicals": 56,
+          "consumer_fashion" : 55,
+          "technology" : 27,
+          "industrial" : 44,
+          "land": 44,
+          "machinary" : 37,
+          "household" : 47,
+          "climate" : 70    
+        }
+      }
+    ],
+    "Oct": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 45,
+          "air_trade": 43,
+          "ocean_trade": 47
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 51,
+          "air_trade": 51,
+          "ocean_trade": 52
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 47,
+          "air_trade": 46,
+          "ocean_trade": 47
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 44,
+          "air_trade": 41,
+          "ocean_trade": 46
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 43,
+          "air_trade": 39,
+          "ocean_trade": 47
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 50,
+          "air_trade": 44,
+          "ocean_trade": 54
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 49,
+          "air_trade": 46,
+          "ocean_trade": 52
+        },
+        "development": {
+          "basic": 54,
+          "chemicals": 54,
+          "consumer_fashion" : 57,
+          "technology" : 24,
+          "industrial" : 47,
+          "land": 26,
+          "machinary" : 34,
+          "household" : 65,
+          "climate" : 62    
+        }
+      }
+    ],
+    "Nov": [
+      {
+        "country": "United States",
+        "image" : "assets/img/img_us_flag.png",
+        "trade_indexes": {
+         "country_trade": 44,
+          "air_trade": 42,
+          "ocean_trade": 46
+        },
+        "development": {
+          "basic": 83,
+          "capital": 58,
+          "chemicals": 52,
+          "consumer_fashion" : 57,
+          "technology" : 65,
+          "industrial" : 52,
+          "land": 62,
+          "machinary" : 74,
+          "household" : 72,
+          "climate" : 42    
+        }
+      },
+      {
+        "country": "United Kingdom",
+        "image" : "assets/img/img_uk_flag.png",
+        "trade_indexes": {
+         "country_trade": 49,
+          "air_trade": 49,
+          "ocean_trade": 48
+        },
+        "development": {
+          "basic": 53,
+          "capital": 49,
+          "chemicals": 64,
+          "consumer_fashion" : 65,
+          "technology" : 72,
+          "industrial" : 80,
+          "land": 78,
+          "machinary" : 69,
+          "household" : 55,
+          "climate" : 36    
+        }
+      },
+      {
+        "country": "Germany",
+        "image" : "assets/img/img_germany_flag.png",
+        "trade_indexes": {
+         "country_trade": 45,
+          "air_trade": 45,
+          "ocean_trade": 45
+        },
+        "development": {
+          "basic": 59,
+          "capital": 74,
+          "chemicals": 74,
+          "consumer_fashion" : 86,
+          "technology" : 82,
+          "industrial" : 47,
+          "land": 67,
+          "machinary" : 83,
+          "household" : 78
+        }
+      },
+      {
+        "country": "China",
+        "image" : "assets/img/img_china_flag.png",
+        "trade_indexes": {
+          "country_trade": 42,
+          "air_trade": 41,
+          "ocean_trade": 43
+        },
+        "development": {
+          "basic": 64,
+          "capital": 95,
+          "chemicals": 83,
+          "consumer_fashion" : 45,
+          "technology" : 58,
+          "industrial" : 43,
+          "land": 75,
+          "machinary" : 77,
+          "household" : 65,
+          "climate" : 69    
+        }
+      },
+      {
+        "country": "South Korea",
+        "image" : "assets/img/img_south_korea_flag.png",
+        "trade_indexes": {
+          "country_trade": 43,
+          "air_trade": 39,
+          "ocean_trade": 45
+        },
+        "development": {
+          "basic": 91,
+          "capital": 66,
+          "chemicals": 72,
+          "consumer_fashion" : 35,
+          "technology" : 93,
+          "industrial" : 51,
+          "land": 50,
+          "machinary" : 70,
+          "household" : 94,
+          "climate" : 73    
+        }
+      },
+      {
+        "country": "Japan",
+        "image" : "assets/img/img_jp_flag.png",
+        "trade_indexes": {
+          "country_trade": 48,
+          "air_trade": 42,
+          "ocean_trade": 51
+        },
+        "development": {
+          "basic": 57,
+          "capital": 97,
+          "chemicals": 74,
+          "consumer_fashion" : 98,
+          "technology" : 71,
+          "industrial" : 69,
+          "land": 66,
+          "machinary" : 73,
+          "household" : 67,
+          "climate" : 63    
+        }
+      },
+      {
+        "country": "India",
+        "image" : "assets/img/img_india_flag.png",
+        "trade_indexes": {
+          "country_trade": 54,
+          "air_trade": 44,
+          "ocean_trade": 60
+        },
+        "development": {
+          "basic": 70,
+          "chemicals": 55,
+          "consumer_fashion" : 56,
+          "technology" : 20,
+          "industrial" : 53,
+          "land": 20,
+          "machinary" : 41,
+          "household" : 48,
+          "climate" : 69  
+        }
+      }
+    ]
+  }
+}
